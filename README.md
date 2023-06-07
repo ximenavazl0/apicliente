@@ -3,9 +3,9 @@ cliente de API de CBTis169
 
 ## modulo de usuarios
 
-funciones
+funsiones
 ----------
-*iser usuarios
-*crear usuarios
-*borrar usuarios
-*actualizar usuarios
+* iser usuarios
+* crear usuarios
+* borrar usuarios
+* actualizar usuarios
